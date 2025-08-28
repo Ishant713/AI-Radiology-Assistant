@@ -1,0 +1,12 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.8.0+cpu
+torchvision==0.23.0+cpu
+numpy==1.24.4
+pillow==10.2.0
+pydicom==2.4.4
+opencv-python==4.9.0.80
+scikit-image==0.24.0
+matplotlib==3.8.4
+streamlit==1.34.0
+torchxrayvision==1.2.4
+git+https://github.com/jacobgil/pytorch-grad-cam.git
